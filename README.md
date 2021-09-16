@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi I'm Agustin 👋
+![1616104517729](https://user-images.githubusercontent.com/65829590/133610579-060e17b3-8f97-4b13-a942-90be2f76edac.jpg)
 
+```js
+const agusdelva = {
+  techonologies: [HTML, CSS, javaScript, React, Node],
+  }
+```
+  
+  portfolio : https://agusdelva.netlify.app/
 <!--
 **agusdelva/agusdelva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
